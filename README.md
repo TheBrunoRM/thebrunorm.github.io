@@ -1,1 +1,1 @@
-[YeeBot](thebrunorm.github.io/yeebot)
+[YeeBot](https://thebrunorm.github.io/yeebot)
